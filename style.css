@@ -173,18 +173,20 @@ nav ul li a{
     background-color: black;
     color: white;
     
-}.card2:hover{
+}
+.card2:hover{
     animation: change 0.3s step-end both;
     
     background-color: black;
     color: white;
     
-}.card3:hover{
+}
+.card3:hover{
     animation: change 0.3s step-end both;
     
     background-color: black;
     color: white;
-    
+   
 }
 @keyframes change {
     from { background-color: white;
