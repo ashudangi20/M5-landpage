@@ -20,11 +20,14 @@
     color: white;
 }
 .navbar{
+    position: fixed;
     width: 100%;
     display: flex;
     align-items: center;
     border-bottom: 2px solid #fff;
+    background-color: aqua;
 }
+
 .logo{
     width: 150px;
     padding-left: 2%;
